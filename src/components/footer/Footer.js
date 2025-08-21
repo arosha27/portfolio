@@ -13,13 +13,6 @@ export default function Footer() {
           {emoji("Made with ❤️ by Arosha Bakhtawar")}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          
-          <a
-            href="#"
-            target="_blank"
-            rel="noreferrer"
-          >
-          </a>
         </p>
       </div>
     </Fade>
